@@ -1,13 +1,13 @@
 import { useState } from "react";
 
-export function usePrevious(value, callback) {
-  const [previousValue, setPreviousValue] = useState(value);
+export const usePrevious = (value, callback) => {
+  const [prevValue, setPrevValue] = useState(value);
 
-  if (previousValue !== value) {
-    setPreviousValue(value);
+  if (prevValue !== value) {
+    setPrevValue(value);
 
-    typeof callback === "function" && callback(previousValue);
+    typeof callback === "function" && callback(prevValue);
   }
 
-  return previousValue;
-}
+  return prevValue;
+};

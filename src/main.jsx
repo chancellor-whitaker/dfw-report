@@ -5,6 +5,7 @@ import "./index.css";
 
 import { StrictMode } from "react";
 
+import Playground from "./Playground/index.jsx";
 import App from "./App.jsx";
 
 // Register all Community features
@@ -12,6 +13,8 @@ ModuleRegistry.registerModules([AllCommunityModule]);
 
 createRoot(document.getElementById("root")).render(
   <StrictMode>
-    <App />
+    <App>
+      <Playground></Playground>
+    </App>
   </StrictMode>
 );

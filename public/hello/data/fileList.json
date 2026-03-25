@@ -1,0 +1,158 @@
+[
+  {
+    "default_page": "Y",
+    "filename": "./Data/202520.json",
+    "term_code": 202520,
+    "term_desc": "Spring 2025"
+  },
+  {
+    "default_page": "",
+    "filename": "./Data/202515.json",
+    "term_code": 202515,
+    "term_desc": "Winter 2024"
+  },
+  {
+    "default_page": "",
+    "filename": "./Data/202510.json",
+    "term_code": 202510,
+    "term_desc": "Fall 2024"
+  },
+  {
+    "default_page": "",
+    "filename": "./Data/202450.json",
+    "term_code": 202450,
+    "term_desc": "Summer 2024"
+  },
+  {
+    "default_page": "",
+    "filename": "./Data/202420.json",
+    "term_code": 202420,
+    "term_desc": "Spring 2024"
+  },
+  {
+    "default_page": "",
+    "filename": "./Data/202415.json",
+    "term_code": 202415,
+    "term_desc": "Winter 2023"
+  },
+  {
+    "default_page": "",
+    "filename": "./Data/202410.json",
+    "term_code": 202410,
+    "term_desc": "Fall 2023"
+  },
+  {
+    "default_page": "",
+    "filename": "./Data/202350.json",
+    "term_code": 202350,
+    "term_desc": "Summer 2023"
+  },
+  {
+    "default_page": "",
+    "filename": "./Data/202320.json",
+    "term_code": 202320,
+    "term_desc": "Spring 2023"
+  },
+  {
+    "default_page": "",
+    "filename": "./Data/202315.json",
+    "term_code": 202315,
+    "term_desc": "Winter 2022"
+  },
+  {
+    "default_page": "",
+    "filename": "./Data/202310.json",
+    "term_code": 202310,
+    "term_desc": "Fall 2022"
+  },
+  {
+    "default_page": "",
+    "filename": "./Data/202250.json",
+    "term_code": 202250,
+    "term_desc": "Summer 2022"
+  },
+  {
+    "default_page": "",
+    "filename": "./Data/202220.json",
+    "term_code": 202220,
+    "term_desc": "Spring 2022"
+  },
+  {
+    "default_page": "",
+    "filename": "./Data/202215.json",
+    "term_code": 202215,
+    "term_desc": "Winter 2021"
+  },
+  {
+    "default_page": "",
+    "filename": "./Data/202210.json",
+    "term_code": 202210,
+    "term_desc": "Fall 2021"
+  },
+  {
+    "default_page": "",
+    "filename": "./Data/202150.json",
+    "term_code": 202150,
+    "term_desc": "Summer 2021"
+  },
+  {
+    "default_page": "",
+    "filename": "./Data/202120.json",
+    "term_code": 202120,
+    "term_desc": "Spring 2021"
+  },
+  {
+    "default_page": "",
+    "filename": "./Data/202115.json",
+    "term_code": 202115,
+    "term_desc": "Winter 2020"
+  },
+  {
+    "default_page": "",
+    "filename": "./Data/202110.json",
+    "term_code": 202110,
+    "term_desc": "Fall 2020"
+  },
+  {
+    "default_page": "",
+    "filename": "./Data/202050.json",
+    "term_code": 202050,
+    "term_desc": "Summer 2020"
+  },
+  {
+    "default_page": "",
+    "filename": "./Data/202020.json",
+    "term_code": 202020,
+    "term_desc": "Spring 2020"
+  },
+  {
+    "default_page": "",
+    "filename": "./Data/202015.json",
+    "term_code": 202015,
+    "term_desc": "Winter 2019"
+  },
+  {
+    "default_page": "",
+    "filename": "./Data/202010.json",
+    "term_code": 202010,
+    "term_desc": "Fall 2019"
+  },
+  {
+    "default_page": "",
+    "filename": "./Data/201950.json",
+    "term_code": 201950,
+    "term_desc": "Summer 2019"
+  },
+  {
+    "default_page": "",
+    "filename": "./Data/201920.json",
+    "term_code": 201920,
+    "term_desc": "Spring 2019"
+  },
+  {
+    "default_page": "",
+    "filename": "./Data/201910.json",
+    "term_code": 201910,
+    "term_desc": "Fall 2018"
+  }
+]
